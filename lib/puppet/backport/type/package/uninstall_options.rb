@@ -1,3 +1,5 @@
+require 'puppet/backport/parameter/package_options'
+
 package = Puppet::Type.type(:package)
 
 unless package.features.include? :uninstall_options

@@ -34,6 +34,7 @@ line in an appropriate place (before code that relies on this feature)
 |----------------------------------|-------|---------------------------------------------------------------|
 | `type/package/package_settings`  | 3.5.0 | `require 'puppet/backport/type/package/package_settings'`     |
 | `type/package/uninstall_options` | 3.0.0 | `require 'puppet/backport/type/package/uninstall_options'`    |
+| `Parameter::PackageOptions`      | 3.0.0 | `require 'puppet/backport/parameter/package_options'`         |
 
 ## Development
 The project is held at github:

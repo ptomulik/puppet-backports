@@ -1,2 +1,3 @@
 2016-09-16 Pawel Tomulik <ptomulik@meil.pw.edu.pl>
+  * backport Puppet::Parameter::PackageOptions
   * initial commit
