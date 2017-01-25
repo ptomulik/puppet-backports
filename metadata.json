@@ -7,5 +7,6 @@
   "source": "git://github.com/ptomulik/puppet-backports.git",
   "project_page": "https://github.com/ptomulik/puppet-backports",
   "issues_url": "https://github.com/ptomulik/puppet-backports/issues",
-  "description": "Backport selected puppet features to older puppet versions"
+  "description": "Backport selected puppet features to older puppet versions",
+  "dependencies": []
 }
