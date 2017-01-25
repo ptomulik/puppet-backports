@@ -29,6 +29,7 @@ group :development, :unit_tests do
   gem 'tins', '< 1.7.0' if RUBY_VERSION >= '1.9' && RUBY_VERSION < '2.0'
   gem 'json', '< 2.0.0' if RUBY_VERSION < '2.0'
   gem 'json_pure', '< 2.0.0' if RUBY_VERSION < '2.0'
+  gem 'term-ansicolor', '<= 1.3.2' if RUBY_VERSION >= '1.9' && RUBY_VERSION < '2.0'
 end
 
 group :development do
